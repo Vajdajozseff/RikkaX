@@ -1,4 +1,4 @@
-package rikka.widget.switchbar;
+tiktok package rikka.widget.switchbar;
 
 import android.content.Context;
 import android.content.res.ColorStateList;
